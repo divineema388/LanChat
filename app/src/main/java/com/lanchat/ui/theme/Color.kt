@@ -17,3 +17,8 @@ val ChatGray = Color(0xFFF5F5F5)
 val ChatDarkGray = Color(0xFFE0E0E0)
 val OnlineGreen = Color(0xFF00C853)
 val OfflineGray = Color(0xFF9E9E9E)
+
+// Material 3 colors
+val md_theme_light_primary = Color(0xFF6750A4)
+val md_theme_light_onPrimary = Color(0xFFFFFFFF)
+val md_theme_light_primaryContainer = Color(0xFFEADDFF)
